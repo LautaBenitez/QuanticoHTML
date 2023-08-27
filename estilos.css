@@ -1,0 +1,32 @@
+/* Estilos globales */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Agrega más estilos aquí */
+/* Estilos para dispositivos pequeños (por ejemplo, teléfonos) */
+@media (max-width: 767px) {
+    /* Reglas de estilo para dispositivos móviles */
+}
+
+/* Estilos para dispositivos medianos (por ejemplo, tabletas) */
+@media (min-width: 768px) and (max-width: 1023px) {
+    /* Reglas de estilo para tabletas */
+}
+
+/* Estilos para dispositivos grandes (por ejemplo, pantallas de escritorio) */
+@media (min-width: 1024px) {
+    /* Reglas de estilo para pantallas de escritorio */
+}
